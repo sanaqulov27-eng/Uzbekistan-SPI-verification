@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or data package, please cite it as below."
+title: "Uzbekistan SPI v4.0 — Reproducible Verification Package"
+version: 1.0.0
+date-released: 2026-09-14
+authors:
+  - family-names: "Familya"
+    given-names: "Ism"
+repository-code: "https://github.com/REPLACE-WITH-YOUR-USERNAME/REPLACE-WITH-REPO-NAME"
+license: MIT
+keywords:
+  - official statistics
+  - Statistical Performance Indicators
+  - World Bank
+  - Uzbekistan
+  - reproducibility
+  - data validation
+abstract: >
+  A fully reproducible verification package for the World Bank Statistical
+  Performance Indicators (SPI) figures for Uzbekistan (2016-2024), including
+  an executable Python notebook, a structured numerical claims register, and
+  an interactive HTML dashboard, all pinned to World Bank SPI release v4.0
+  (commit 2dd02f746cb4e2159281adc74d6865f948e90ce1).
