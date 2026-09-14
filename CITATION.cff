@@ -1,13 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software or data package, please cite it as below."
 title: "Uzbekistan SPI v4.0 — Reproducible Verification Package"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-14
 authors:
-  - family-names: "Familya"
-    given-names: "Ism"
-repository-code: "https://github.com/REPLACE-WITH-YOUR-USERNAME/REPLACE-WITH-REPO-NAME"
+  - family-names: "Sanakulov"
+    given-names: "Otaniyoz"
+    name-suffix: "Erjigit ugli"
+repository-code: "https://github.com/sanaqulov27-eng/Uzbekistan-SPI-verification"
 license: MIT
+doi: 10.5281/zenodo.22744814
 keywords:
   - official statistics
   - Statistical Performance Indicators
